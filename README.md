@@ -10,7 +10,7 @@ I enjoy turning data into intelligence and building real-world security applicat
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shreyaa18/">
@@ -35,7 +35,7 @@ I enjoy turning data into intelligence and building real-world security applicat
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🔹 AI Security Monitoring System
 Real-time security analytics platform using ML classification, rule-based detection, and LLM-generated synthetic data.
@@ -45,7 +45,7 @@ Unsupervised learning project using clustering to segment users based on behavio
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -123,7 +123,7 @@ English • Hindi • Tamil • Malayalam • Arabic (Basic)
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced Machine and Deep Learning techniques  
 - Cloud platforms (AWS / Azure)
@@ -132,6 +132,6 @@ English • Hindi • Tamil • Malayalam • Arabic (Basic)
 
 ---
 
-## 🎯 Goal
+## Goal
 
 To build scalable, intelligent systems that combine **AI, data, and security** to solve meaningful real-world problems.
