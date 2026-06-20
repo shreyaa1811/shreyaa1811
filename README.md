@@ -37,12 +37,25 @@ I enjoy turning data into intelligence and building real-world security applicat
 
 ## Featured Projects
 
-### 🔹 AI Security Monitoring System
-Real-time security analytics platform using ML classification, rule-based detection, and LLM-generated synthetic data.
+### 🔹 AI-Driven Security Monitoring System 
+Real-time AI-powered security monitoring platform combining Machine Learning, LLM-based analysis, and interactive threat explanation.
 
-### 🔹 Phishing Detection System
-Unsupervised learning project using clustering to segment users based on behavior and patterns.
+- Developed an attack detection system using **Logistic Regression** and **Llama 3.1 (Ollama)** for synthetic log generation and anomaly simulation  
+- Built a **Streamlit dashboard** for real-time log classification, threat visualization, and monitoring  
+- Integrated an **LLM-powered explanation layer** to generate human-readable insights for detected threats  
+- Added a **security chatbot interface** for querying logs, understanding alerts, and system interaction  
+- Achieved **85% accuracy** with an **ROC-AUC score of 0.91** for classification performance  
 
+---
+
+### 🔹 Phishing URL Detection System 
+High-accuracy phishing detection system using supervised learning and feature engineering on large-scale URL datasets.
+
+- Built a phishing URL classifier using **Random Forest** trained on **235K+ URLs**  
+- Designed feature engineering pipeline including **typosquatting detection and rule-based heuristics**  
+- Achieved **99.55% accuracy** and **0.99 F1-score**, ensuring highly reliable classification  
+- Deployed interactive **Streamlit web app** for real-time URL analysis
+  
 ---
 
 ## Tech Stack
